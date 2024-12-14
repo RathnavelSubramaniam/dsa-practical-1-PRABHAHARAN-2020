@@ -24,6 +24,7 @@ jobs:
         expected-output: |-
           PROGRAM TO REVERSE A STRING USING RECURSION
           ENTER THE STRING TO BE REVERSED USING RECURSION
+          THE REVERSED STRING IS: SERUTCURTS ATAD
         comparison-method: exact
         timeout: 10
         max-score: 10
